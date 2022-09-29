@@ -1,7 +1,7 @@
 name: slowly
 description: debounce and throttle
 version: 0.1.0
-#homepage:
+repository: https://github.com/Hu-Wentao/slowly.git
 
 environment:
   sdk: ">=2.17.6 <3.0.0"
